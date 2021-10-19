@@ -1,2 +1,2 @@
 # Leetcode, GFG
-Solutions(leetcode, gfg)
+Solutions

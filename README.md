@@ -1,2 +1,2 @@
-# Coding
-Solutions of coding problems C++ (leetcode, gfg)
+# Leetcode, GFG
+Solutions(leetcode, gfg)
